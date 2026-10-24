@@ -1,0 +1,10 @@
+/runs/*
+  Cache-Control: public, max-age=604800
+/terrain/*
+  Cache-Control: public, max-age=604800
+/runs.js
+  Cache-Control: no-cache
+/*.html
+  Cache-Control: no-cache
+/
+  Cache-Control: no-cache
